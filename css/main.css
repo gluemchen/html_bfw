@@ -1,4 +1,4 @@
-body {
+/* body {
     background-color: darkorange;
   }
   
@@ -10,4 +10,17 @@ body {
   p {
     font-family: monospace;
     font-size: 20px;
+  }
+*/
+
+body {
+    background-color: #fc9; /* same as #ffcc99 */
+  }
+  
+  h1 {
+    color: #f0f; /* same as #ff00ff */
+  }
+  
+  p {
+    color: #ff471a; /* same as #bb5588 */
   }
