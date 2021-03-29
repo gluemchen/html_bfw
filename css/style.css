@@ -30,5 +30,10 @@ body {
   }
 
   #absatz {
-    color: slateblue; /* id=absatz is  */
+    color: slateblue; /* id=absatz is slateblue and a background color with darkturquoise */
+    background-color: darkturquoise;
+  }
+
+  #color {
+    font-size: 1.5em;
   }
